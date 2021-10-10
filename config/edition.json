@@ -91,13 +91,13 @@
       }
     },
     "charts": {
-      "label": "Charts & Listings",
+      "label": "Charts & TELEGRAM",
       "icon": "InfoIcon",
       "items": [
         {
-          "label": "QuickChart",
+          "label": "TELEGRAM GROUP",
           "link": {
-            "href": "https://v2.quickchart.app/token/0xF63013C41B75d5E2F32fE3122898201507dC0C40"
+            "href": "https://t.me/polyround"
           }
         },
         {
