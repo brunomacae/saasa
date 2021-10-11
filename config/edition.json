@@ -94,7 +94,7 @@
     },
     "COUNTDOWN": {
       "label": "COUNTDOWN",
-      "icon": "CountdownIcon",
+      "icon": "InfoIcon",
       "link": {
         "href": "https://polygonscan.com/block/countdown/20193179"
       }
