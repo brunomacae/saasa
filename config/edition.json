@@ -81,6 +81,13 @@
       "icon": "PoolIcon",
       "link": {
         "href": "/pools"
+       }
+     },
+    "TELEGRAM": {
+      "label": "TELEGRAM",
+      "icon": "TelegramIcon",
+      "link": {
+        "href": "https://t.me/polyround"
       }
     },
     "referrals": {
