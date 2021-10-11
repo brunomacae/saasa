@@ -28,6 +28,7 @@
     "farms",
     "pools",
     "TELEGRAM",
+    "COUNTDOWN",
     "referrals",
     "charts"
   ],
@@ -89,6 +90,13 @@
       "icon": "TelegramIcon",
       "link": {
         "href": "https://t.me/polyround"
+      }
+    },
+    "COUNTDOWN": {
+      "label": "COUNTDOWN",
+      "icon": "CountdownIcon",
+      "link": {
+        "href": "https://polygonscan.com/block/countdown/20193179"
       }
     },
     "referrals": {
